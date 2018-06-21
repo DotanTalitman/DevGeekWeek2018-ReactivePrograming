@@ -1,0 +1,23 @@
+{
+  "name": "reactiveprogramming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example1.js",
+  "dependencies": {
+    "rxjs": "^6.1.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.3"
+  },
+  "scripts": {
+    "dev":"webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
